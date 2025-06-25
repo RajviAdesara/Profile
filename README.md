@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 Final Year Computer Science Student <br>💻 Aspiring Full Stack Developer<br>🌐 Passionate about Web Development <br>📍 Based in India<br>💡 Always Learning & Building<br>🤝 Open to internships & collaborations<br>🎶 Flute Artist 
+🎓 Final Year Computer Science Student | 🎶 Flute Artist <br>💻 Aspiring Full Stack Developer<br>🌐 Passionate about Web Development <br>📍 Based in India<br>💡 Always Learning & Building<br>🤝 Open to internships & collaborations 
 
 
 ## 🌐 Socials:
